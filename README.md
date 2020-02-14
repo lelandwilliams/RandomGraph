@@ -1,3 +1,3 @@
 # RandomGraph
 
-A quick python script to create a random **_n_x_n_** graph represented as a matrix
+A quick python script to create a random __n__**x**__n__ graph represented as a matrix
